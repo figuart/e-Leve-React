@@ -21,8 +21,8 @@ export default function Contato() {
                 </TelMail>
                 <Mensagem type="text" className="col-12 col-sm-6" name="mensagem" placeholder="Mensagem" id="messenger"></Mensagem> 
 
-                <div className="col-12 button btn">
-                    <Enviar type="submit">ENVIAR</Enviar>
+                <div className="button btn">
+                    <Enviar className="col-12 col-sm-6 "type="submit">ENVIAR</Enviar>
                 </div>
        
             </Form>
