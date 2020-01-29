@@ -50,8 +50,8 @@ export default function Home() {
       <div className="carousel-item active">
         <img src={Slide1} className="img-fluid d-block rounded-0" alt="image1"/>
           <div className="carousel-caption d-none d-md-block text-light">
-            <h1>Título</h1>
-            <p>descrição</p>
+            <h1></h1>
+            <p></p>
           </div>
       </div>
       <div className="carousel-item">
