@@ -12,7 +12,7 @@ export default function Contato() {
                <div className="container-fluid col-12 justify-content-center">Preencha o formulário para que possamos entrar em contato com você!</div>
            </ContatoAsk>
            <Form className="form-group col-12 justify-content-center" action="mailto:e-leve.tecnologia@yandex.com">
-                <Nome type="text" className="col-md-6 col-sm-6" name="nome" placeholder="Nome Completo" id="name"/> 
+                <Nome type="text" className="col-12 col-sm-6" name="nome" placeholder="Nome Completo" id="name"/> 
                 <TelMail className="m-0 col-12 justify-content-between">
                     <Tel type="text" className="col-md-3 col-sm-6"  name="tefone" placeholder="Telefone (21)12345-6666" id="phone"/>
 
