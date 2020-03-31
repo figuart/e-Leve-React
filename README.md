@@ -1,4 +1,5 @@
-# e-leve_React
+# e-leve_React ![e-leve](https://user-images.githubusercontent.com/18633105/78030714-e70d6900-7338-11ea-8372-d430c84b1acc.png)
+
  Site do projeto da Ong Recode em React
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
